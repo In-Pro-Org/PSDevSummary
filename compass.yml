@@ -1,0 +1,13 @@
+name: PSDevSummary
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/06f7331e-adcf-44ad-8e54-298665ee5f91
+description: GitHub Modules to HTML Overview
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
